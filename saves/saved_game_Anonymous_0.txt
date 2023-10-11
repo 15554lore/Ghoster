@@ -1,0 +1,12 @@
+30/09/2023 09:20:44
+Player 4 571 682
+Enemy 1 578 131 -1
+Enemy 2 886 172 -1
+Enemy 3 204 249 -1
+Enemy 3 844 117 1
+Enemy 3 690 185 -1
+Enemy 2 840 161 -1
+Enemy 3 180 277 1
+Enemy 3 18 282 1
+Score 400
+Difficulty easy

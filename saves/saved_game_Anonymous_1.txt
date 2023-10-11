@@ -1,0 +1,5 @@
+30/09/2023 11:12:55
+Player 1 774 617.0
+Enemy 3 -44 263 1
+Score 1000
+Difficulty hard
