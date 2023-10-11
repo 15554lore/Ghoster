@@ -1,0 +1,2 @@
+# Ghoster
+Python Game (Coursework)
