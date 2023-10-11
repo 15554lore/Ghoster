@@ -2,6 +2,7 @@
 
 Ghoster is a simple ghost shooting game created in Python using the Tkinter library. It features an object-oriented programming (OOP) structure and includes various game elements such as pausing, saving, a leaderboard, boss keys, and cheat codes.
 
+![Local Image](images/Game.png)
 ## Table of Contents
 
 1. [Features](#features)
